@@ -43,7 +43,7 @@ namespace VadimFramework.Engine
             .WriteTo.File(@"C:\Users\vadym.nasypanyi\source\repos\VadimFramework\VadimFramework\Logs\logs.txt")
             .CreateLogger();
 
-            Log.Information("Here we go again");
+            Log.Information("Here we go again!!!");
 
         }
         [TearDown]
