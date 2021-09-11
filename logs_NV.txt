@@ -19,3 +19,6 @@
 2020-04-20 16:40:29.503 +03:00 [INF] Final block of Asserts is passed. User is located on the Main screen
 2020-04-20 16:40:29.503 +03:00 [INF] Test method has been executed. Switching to the next one!
 2020-04-20 16:40:29.631 +03:00 [INF] Test Suite has been executed!
+2020-04-20 16:40:29.503 +03:00 [INF] Final block of Asserts is passed. User is located on the Main screen
+2020-04-20 16:40:29.503 +03:00 [INF] Test method has been executed. Switching to the next one!
+2020-04-20 16:40:29.631 +03:00 [INF] Test Suite has been executed!

@@ -42,7 +42,7 @@ namespace VadimFramework.Engine
             PageFactory.InitElements(driver, loginPage);
 
 
-            loginPage.FirstButton.Click();
+            loginPage.firstButton.Click();
             wait.Until(ExpectedConditions.ElementIsVisible(By.XPath("//input[@name='commit']")));
 
             Assert.Multiple(() =>
@@ -67,7 +67,7 @@ namespace VadimFramework.Engine
             }
             else 
             {
-                Log.Error("Elements are absent!Time is {Now}", DateTime.Now);
+                Log.Error("Expected elements are absent!Time is {Now}", DateTime.Now);
             }
         }
 
