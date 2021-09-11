@@ -20,7 +20,7 @@ namespace VadimFramework.Engine
 
         public String screenUrl = "https://github.com/";
         public String emailLogin = "nv.test1.demo@gmail.com"; 
-        public String passwordLogin = "CSWINksk2";
+        public String passwordLogin = "u}4J=6\qD{9?~jg}";
         public String RepositoryName = "Vadim_Repository_Final_Version_NV";
         public String RepositoryFullName = "VadimNas/Vadim_Repository_Final_Version_NV";
         public String Description = "Demo_Test_VNasypanyi_Creator_Description";

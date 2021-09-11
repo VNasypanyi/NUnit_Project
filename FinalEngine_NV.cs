@@ -24,7 +24,7 @@ namespace VadimFramework.Engine
     {
 
         [Test, Order(1)]
-        [Author("Vadym Nasypanyi", "vadym.nasypanyi@fortegrp.com")]
+        [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
 
         public void ExecuteLogin()
         {
@@ -72,7 +72,7 @@ namespace VadimFramework.Engine
         }
 
         [Test, Order(2)]
-        [Author("Vadym Nasypanyi", "vadym.nasypanyi@fortegrp.com")]
+        [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
         //[Ignore("Ignore a test")]
         public void ExecuteReposytoryCreation()
         {
@@ -129,7 +129,7 @@ namespace VadimFramework.Engine
         }
 
         [Test, Order(3)]
-        [Author("Vadym Nasypanyi", "vadym.nasypanyi@fortegrp.com")]
+        [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
         //[Ignore("Ignore a test")]
 
         public void ExecuteFileCreation()
@@ -183,7 +183,7 @@ namespace VadimFramework.Engine
             }
         }
         [Test, Order(4)]
-        [Author("Vadym Nasypanyi", "vadym.nasypanyi@fortegrp.com")]
+        [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
         //[Ignore("Ignore a test")]
 
         public void ExecuteReposytoryDeleting()
@@ -248,7 +248,7 @@ namespace VadimFramework.Engine
 
         }
         [Test, Order(5)]
-        [Author("Vadym Nasypanyi", "vadym.nasypanyi@fortegrp.com")]
+        [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
         //[Ignore("Ignore a test")]
 
         public void ExecuteLogoutProcess()
