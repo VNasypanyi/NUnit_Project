@@ -49,7 +49,7 @@ namespace VadimFramework.Engine
         [TearDown]
         public void EndTest()
         {
-            Log.Information("Test method has been executed. Switching to the next one!");
+            Log.Information("Test method has been executed. Switching to the next one is processing!");
         }
 
         [OneTimeTearDown]
