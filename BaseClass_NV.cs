@@ -56,7 +56,7 @@ namespace VadimFramework.Engine
         public void EndSuite()
         {
             driver.Close();
-            Log.Information("Test Suite has been executed!");
+            Log.Information("Test Suite has been executed as expected!");
             Log.CloseAndFlush();
         }
 
