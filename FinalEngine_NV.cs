@@ -186,7 +186,7 @@ namespace VadimFramework.Engine
         [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
         //[Ignore("Ignore a test")]
 
-        public void ExecuteReposytoryDeleting()
+        public void ExecuteRepositoryDeleting()
         {
             Assert.Multiple(() =>
             {
@@ -251,7 +251,7 @@ namespace VadimFramework.Engine
         [Author("Vadym Nasypanyi", "vadym.nasypanyi@gmail.com")]
         //[Ignore("Ignore a test")]
 
-        public void ExecuteLogoutProcess()
+        public void Execution_LogoutProcess()
         {
 
             LogoutProcess logoutProcess1 = new LogoutProcess();
