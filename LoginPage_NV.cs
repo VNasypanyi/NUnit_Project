@@ -12,7 +12,7 @@ namespace VadimFramework.Engine
     class LoginPage
     {
         [FindsBy(How = How.XPath, Using = "//a[@class='HeaderMenu-link no-underline mr-3']")]
-        public IWebElement FirstButton { get; set; }
+        public IWebElement firstButton { get; set; }
 
         [FindsBy(How = How.XPath, Using = "//input[@id='login_field']")]
         public IWebElement typeEmail { get; set; }
