@@ -12,6 +12,10 @@ using Serilog;
 using OpenQA.Selenium.Internal;
 using OpenQA.Selenium.Support.UI;
 
+
+// This is demo project for practice 
+
+ 
 namespace VadimFramework.Engine
 {
     public class BaseClass
